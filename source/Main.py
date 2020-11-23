@@ -7,8 +7,8 @@ from source.DataProfiler import profile_data
 supervised = False
 missing_value_handling = MissingValueHandlingTypes.cca  # cca, aca, impute
 
-path = "/datasets/agaricus-lepiota.csv"
-delimiter = " "
+path = "../datasets/agaricus-lepiota.csv"
+delimiter = ","
 class_column = "class"
 numeric_categoricals = []
 

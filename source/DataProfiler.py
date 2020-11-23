@@ -2,7 +2,7 @@ import time
 
 import numpy as np
 import pandas as pd
-import pandas_profiling as pp
+# import pandas_profiling as pp
 from scipy.stats import normaltest
 from sklearn.neighbors import LocalOutlierFactor
 

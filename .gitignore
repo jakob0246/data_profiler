@@ -1,6 +1,9 @@
-# MacOS specifics
+# MacOS
 .DS_Store
 
-# PyCharm specifics
+# PyCharm
 /venv/
 /.idea/
+
+# Python
+/source/__pycache__/
