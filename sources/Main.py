@@ -1,7 +1,7 @@
-from source.DataIntegrator import read_in_data
-from source.DataPreprocessor import initial_preprocessing, further_preprocessing, prepare_for_unsupervised_learning, \
+from sources.DataIntegrator import read_in_data
+from sources.DataPreprocessor import initial_preprocessing, further_preprocessing, prepare_for_unsupervised_learning, \
                              prepare_for_supervised_learning, scale_and_normalize_features, MissingValueHandlingTypes
-from source.DataProfiler import profile_data
+from sources.DataProfiler import profile_data
 
 
 supervised = False

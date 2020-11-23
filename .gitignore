@@ -6,4 +6,4 @@
 /.idea/
 
 # Python
-/source/__pycache__/
+/sources/__pycache__/
