@@ -1,0 +1,6 @@
+# MacOS specifics
+.DS_Store
+
+# PyCharm specifics
+/venv/
+/.idea/
