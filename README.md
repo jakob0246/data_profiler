@@ -1,4 +1,4 @@
-## **Usage**
+## **Installation & Usage**
 Run project with PyCharm and Python 3.6. For that, create a new PyCharm project for the _data_profiler_ repository. Then install the required libraries, as well. Execute _Main.py_ if you want to obtain metadata from a dataset. The first 6 variables within the main function serve as the input-parameters.
 
 ## Datasets
